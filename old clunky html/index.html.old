@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang = "en">
     <head>
+        <meta charset="UTF-8">
+        <meta name = "viewport">
         <title>Scrub Systems</title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/style.css">
     </head>
     <body>
         <header>
